@@ -1,9 +1,12 @@
 {
-  "name": "avu-lib",
+  "name": "avu-library",
   "version": "1.0.0",
   "description": "Automatically upload videos to YouTube as soon as they are saved",
   "main": "./out/index.js",
   "types": "./out/index.d.ts",
+  "files": [
+    "out/**/*"
+  ],
   "scripts": {
     "test": "jest --config jestconfig.json",
     "clean": "npx del-cli out",
