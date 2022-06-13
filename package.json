@@ -1,6 +1,6 @@
 {
   "name": "avu-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatically upload videos to YouTube as soon as they are saved",
   "main": "./out/index.js",
   "types": "./out/index.d.ts",
